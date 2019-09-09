@@ -1,0 +1,15 @@
+syntax: regexp
+
+syntax: glob
+*.db
+nbproject
+Amazon EC2/*
+src/looHub/forum/cache/*.php
+.hgignore~
+src/looHub/includes/constants.php
+src/looHub/forum/images/avatars/upload/*.png
+src/looHub/forum/images/avatars/upload/*.jpg
+src/looHub/forum/images/avatars/upload/*.gif
+src/looHub/forum/images/avatars/upload/*.svg
+*~
+src/looHub/forum/config.php
